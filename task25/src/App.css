@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+   background-color: aqua;
+}
+
+.one{
+  font-size: 20px;
+  align-self: center;
+  text-align: center;
+ 
+}
+.two{
+  text-align: center;
+  display: flex;
+  background-color: aquamarine;
+}
+.three{
+  align-content: center;
+}
